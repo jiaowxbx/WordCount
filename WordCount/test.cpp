@@ -48,7 +48,7 @@ int main(int argc, char *argv[])
 		}
 		else{
 			count2++;
-			if(flagD==1)
+			if(flagD!=0)
 			{
 				flag=1;
 			}
